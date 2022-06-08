@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+    color: #fff;
+}
+
+.logo {
+    height: 60px;
+}
+
+.color li a {
+    font-size: 20px;
+    color: #fff !important;
+}
+
+.color li a:hover {
+    color: orange !important;
+}
